@@ -1,0 +1,5 @@
+class{
+public static void add(int a){
+System.out.println(a+a);}
+
+}
